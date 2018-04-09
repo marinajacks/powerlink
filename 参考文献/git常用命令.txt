@@ -1,0 +1,36 @@
+﻿OPC Foundation publishes OPC UA specification for POWERLINK
+02/07/2018
+Secure and seamless communication with POWERLINK and OPC UA
+OPC Foundation publishes OPC UA specification for POWERLINK
+Scottsdale, AZ, Feb 8th 2018 – An OPC UA companion specification is now available for POWERLINK according to a joint announcement by the OPC Foundation and the Ethernet POWERLINK Standardization Group (EPSG). The companion specification describes how payload data is exchanged between POWERLINK and any OPC UA platform. The result is integrated communication from the sensor to the cloud.
+
+“As technologies, OPC UA and POWERLINK complement each other perfectly,” emphasized Thomas Burke, President of the OPC Foundation, in his announcement. “POWERLINK is among the leading real-time bus systems used in plants and machinery. Together with OPC UA, POWERLINK networks can now communicate seamlessly and securely with the IT environment and into the cloud.”
+
+A single network
+
+“This specification allows OPC UA and POWERLINK to fuse into a single network,” added Stefan Schönegger, Managing Director of the EPSG. “We’re then able to join devices from different manufacturers and across different levels of the automation pyramid into a single, cohesive system.”
+
+A joint working group between the OPC Foundation and the EPSG had been working on the specification since 2016. The document can be downloaded from the OPC Foundation website:
+https://opcfoundation.org/markets-collaboration/ethernet-powerlink-standardization-group-epsg/
+
+About the EPSG
+The Ethernet POWERLINK Standardization Group (EPSG) is an independent organization founded in 2003 by leading companies from the fields of motion control and automation technology. Its aims are the standardization and further development of the POWERLINK protocol first introduced by B&R in 2001. This high-performance real-time communication system is an advanced protocol based on the IEEE 802.3 Ethernet standard designed to ensure real-time data transfer in the microsecond range. The EPSG cooperates with leading standardization organizations such as CAN in Automation (CiA), the OPC Foundation and the IEC.
+
+ 
+
+About OPC Foundation
+The OPC Foundation is a nonprofit international standards organization dedicated to developing and maintaining the best specifications, technology and certification to achieve multivendor, multiplatform, secure, reliable information from embedded devices to the cloud. OPC Foundation started in 1995, and the OPC community is grown to over 4200 different companies building OPC products with over 47,000,000 installations. OPC specifications are available without membership and OPC reference implementations are open sourced on GitHub. The foundation has an open certification program enabling members and nonmembers to certify their products.
+
+ 
+
+About OPC UA
+OPC Unified Architecture (OPC UA) is a platform and vendor independent communication technology for a secure and reliable data exchange over the different levels of the automation pyramid. In addition, the information models of the OPC UA standard provide the foundation for a semantic interoperability.
+
+Find more information here: www.opcfoundation.org
+Contact
+
+Stefan Schönegger, Managing Director of the EPSG
+eMail: Stefan.Schoenegger@br-automation.com
+
+Stefan Hoppe, Global Vice President, OPC Foundation
+eMail: stefan.hoppe@opcfoundation.org
